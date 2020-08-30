@@ -4,20 +4,58 @@ title: Research
 permalink: /research/
 custom_menu_order: 3
 ---
+{%- comment -%} 
+PAPER SECTION COPY THIS
+    <div class="mb-6">
+      <div class="mb-2">
+        <a class="text-blue-600 font-medium text-base" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">
+          Promotions and the "Peter Principle"
+        </a>
+        <p class="italic text-sm">
+          with Alan Benson and Kelly Shue
+        </p>
+      </div>
+      <div class="text-teal-600 text-sm mb-2">
+        <p><span class="italic">Quarterly Journal of Economics</span>, November 2019: Vol. 134, No. 4.</p>
+        <p>Best Paper Prize: <span class="italic">2017 FIRCG Conference, 2018 CEPR Management, Organizations, and Entrepreneurship Conference</span></p>
+        <p>Coverage:
+          <span class="italic">
+          <a href="http://ww2.cfo.com/human-capital-management/2018/02/be-wary-of-promoting-top-sales-managers/" class="text-blue-600">CFO</a>,
+          <a href="https://www.economist.com/business/2019/06/16/the-promotion-curse" class="text-blue-600">The Economist</a>,
+          <a href="https://www.ft.com/content/6160d980-8a92-11e8-bf9e-8771d5404543" class="text-blue-600">Financial Times</a>,
+          <a href="https://www.forbes.com/sites/roddwagner/2018/04/10/new-evidence-the-peter-principle-is-real-and-what-to-do-about-it/#7ea76df91809" class="text-blue-600">Forbes</a>,
+          <a href="https://hbr.org/2018/03/research-do-people-really-get-promoted-to-their-level-of-incompetence" class="text-blue-600">Harvard Business Review</a>,
+          <a href="https://www.nytimes.com/2018/10/26/business/youve-become-rich-that-doesnt-mean-youre-great-at-everything.html" class="text-blue-600">New York Times</a>,
+          <a href="https://www.npr.org/2018/04/03/599077775/social-science-researchers-examine-the-peter-principle" class="text-blue-600">NPR Hidden Brain</a>,
+          <a href="https://work.qz.com/1212556/your-hotshot-coworker-would-be-a-terrible-boss-and-research-proves-it/" class="text-blue-600">Quartz</a>,
+          <a href="http://time.com/money/5168244/bad-bosses-explained/?xid=homepage" class="text-blue-600">Time</a>,
+          <a href="https://www.thetimes.co.uk/article/why-top-dogs-might-baulk-at-the-lead-02vc83t7x" class="text-blue-600">The Times (UK)</a>,
+          <a href="https://www.wsj.com/articles/the-curse-of-the-superstar-boss-1540008001" class="text-blue-600">Wall Street Journal (1)</a>,
+          <a href="https://www.wsj.com/articles/the-biggest-mistakes-companies-make-with-hiring-11550763917" class="text-blue-600">Wall Street Journal (2)</a>
+          </span>
+        </p>
+      </div>
+      <p><span class="font-medium">Abstract: </span>
+        The best worker isn’t always the best candidate for manager. In these cases, do firms promote the best potential manager or the best worker in their current job? Using data on the performance of sales workers from 131 firms, we find evidence consistent with the Peter Principle: firms prioritize current job performance when making promotion decisions, at the expense of other observable characteristics that better predict managerial quality. We estimate that the costs of managerial mismatch are substantial, suggesting that firms are either making inefficient promotion decisions or that the incentive benefits of emphasizing current performance must also be high.
+      </p>
+    </div>
+ {%- endcomment -%}
 
+{%- comment -%} ALL OF THE CONTENT ON THIS PAGE IS INSIDE THIS BIG BAO {%- endcomment -%}
 <div class="lg:static">
+{%- comment -%} THIS SECTION IS WORKING PAPERS {%- endcomment -%}
   <div class="mb-8 text-sm">
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Working Papers</div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/hiring_41DL.pdf?attredirects=0">Hiring as Exploration</a>
+        <a class="text-blue-600 font-medium text-base" href="https://www.dropbox.com/s/iiuovcbyhxgfi7j/HiringAsExploration_NBERWP.pdf?dl=0">Hiring as Exploration</a>
         <p class="italic text-sm">with Lindsey Raymond and Peter Bergman</p>
       </div>
       <p><span class="font-medium">Abstract: </span>This paper views hiring as a contextual bandit problem: to find the the best workers over time, firms must balance "exploitation" (selecting from groups with proven track records) with "exploration'' (selecting from under-represented groups to learn about quality).  Yet modern hiring algorithms, based on "supervised learning" approaches, are designed solely for exploitation.  Instead, we build a resume screening algorithm that values exploration by evaluating candidates according to their statistical upside potential.  Using data from professional services recruiting within a Fortune 500 firm, we show that this approach improves the quality (as measured by eventual hiring rates) of candidates selected for an interview, while also increasing demographic diversity, relative to the firm's existing practices.  The same is not true for traditional supervised learning based algorithms, which improve hiring rates but select far fewer Black and Hispanic applicants.  In an extension, we show that exploration-based algorithms are also able to learn more effectively about simulated changes in applicant hiring potential over time. Together, our results highlight the importance of incorporating exploration in developing decision-making algorithms that are potentially both more efficient and equitable.</p>
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/formularies?attredirects=0">Insurance Design and Pharmaceutical Innovation</a>
+        <a class="text-blue-600 font-medium text-base" href="https://www.dropbox.com/s/xjyfgfoqvgo6axg/draft_52_DL.pdf?dl=0">Insurance Design and Pharmaceutical Innovation</a>
         <p class="italic text-sm">with Leila Agha and Soomi Kim</p>
       </div>
       <p><span class="font-medium">Abstract: </span>This paper studies how insurance coverage policies affect incentives for pharmaceutical innovation. In the United States, the majority of drugs are sold to Pharmacy Benefit Managers (PBMs), which administer prescription drug plans on behalf of insurers. Beginning in 2012, PBMs began adopting "closed formularies", excluding coverage for certain drugs, including many newly approved drugs, when adequate substitutes were available. We show that this policy reshaped upstream R&D activity and led pharmaceutical firms to shift investment away from therapeutic classes at greater risk of facing coverage exclusions. This move translated into a relative decline in the number of drug candidates that appear more incremental in their therapeutic contribution: that is, those in drug classes with more pre-existing therapies and less scientifically novel research.</p>
