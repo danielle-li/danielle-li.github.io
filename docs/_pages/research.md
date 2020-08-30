@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /
+permalink: /research/
 custom_menu_order: 3
 ---
 
