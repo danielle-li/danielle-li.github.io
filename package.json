@@ -1,0 +1,39 @@
+{
+  "name": "github-pages-starter",
+  "version": "0.1.0",
+  "description": "Fast builds, live reload, GitHub Pages ready.",
+  "author": "Viktor Persson",
+  "license": "MIT",
+  "repository": "vikpe/github-pages-starter",
+  "scripts": {
+    "browser-sync": "browser-sync start --config bs-config.js",
+    "jekyll-dev": "cd docs && bundle exec jekyll build --watch --config=_config.yml,_config.localhost.yml",
+    "watch-assets": "gulp dev",
+    "build-assets": "rimraf docs/assets/css/*.css && rimraf docs/assets/img/* && gulp build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "browser-sync": "^2.26.12",
+    "bs-html-injector": "^3.0.3",
+    "fancy-log": "^1.3.3",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1",
+    "node-sass-tilde-importer": "^1.0.2",
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.7.6"
+  },
+  "postcss": {},
+  "browsers": [
+    "last 5 versions",
+    "> 5%"
+  ]
+}
