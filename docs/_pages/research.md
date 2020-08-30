@@ -16,7 +16,7 @@ PAPER SECTION COPY THIS
           with Alan Benson and Kelly Shue
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">Quarterly Journal of Economics</span>, November 2019: Vol. 134, No. 4.</p>
         <p>Best Paper Prize: <span class="italic">2017 FIRCG Conference, 2018 CEPR Management, Organizations, and Entrepreneurship Conference</span></p>
         <p>Coverage:
@@ -63,14 +63,14 @@ PAPER SECTION COPY THIS
       <p><span class="font-medium">Abstract: </span>This paper studies how insurance coverage policies affect incentives for pharmaceutical innovation. In the United States, the majority of drugs are sold to Pharmacy Benefit Managers (PBMs), which administer prescription drug plans on behalf of insurers. Beginning in 2012, PBMs began adopting "closed formularies", excluding coverage for certain drugs, including many newly approved drugs, when adequate substitutes were available. We show that this policy reshaped upstream R&D activity and led pharmaceutical firms to shift investment away from therapeutic classes at greater risk of facing coverage exclusions. This move translated into a relative decline in the number of drug candidates that appear more incremental in their therapeutic contribution: that is, those in drug classes with more pre-existing therapies and less scientifically novel research.</p>
     </div>
   </div>
-  <div class="mb-8 text-sm">
+  <div class="mb-8 text-base">
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Accepted, Forthcoming, and Published Articles</div>
     <div class="mb-6">
       <div class="mb-2">
         <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/drugnovelty?attredirects=0">Missing Novelty in Drug Development</a>
         <p class="italic">with Joshua Krieger and Dimitris Papanikolaou</p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p>Accepted, <span class="italic">Review of Financial Studies</span></p>
         <p>Best Paper Prize: <span class="italic">2017 Red Rock Conference, 2018 LBS Summer Finance Symposium</span></p>
       </div>
@@ -81,7 +81,7 @@ PAPER SECTION COPY THIS
         <a class="text-blue-600 font-medium text-lg" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">Internal Deadlines, Drug Approvals, and Safety Problems</a>
         <p class="italic">with Lauren Cohen and Umit Gurun</p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p>Accepted, <span class="italic">American Economic Review: Insights</span></p>
         <p>Coverage: <a class="italic text-blue-600" href="https://www.wsj.com/articles/fdas-deadline-problem-11578047402">Wall Street Journal</a></p>
       </div>
@@ -96,7 +96,7 @@ PAPER SECTION COPY THIS
           with Jiro Kondo and Dimitris Papanikolaou
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p>Forthcoming, <span class="italic">Management Science</span></p>
       </div>
       <p><span class="font-medium">Abstract: </span>
@@ -112,7 +112,7 @@ PAPER SECTION COPY THIS
           with Alan Benson and Kelly Shue
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">Quarterly Journal of Economics</span>, November 2019: Vol. 134, No. 4.</p>
         <p>Best Paper Prize: <span class="italic">2017 FIRCG Conference, 2018 CEPR Management, Organizations, and Entrepreneurship Conference</span></p>
         <p>Coverage:
@@ -145,7 +145,7 @@ PAPER SECTION COPY THIS
           with Pierre Azoulay, Josh Graff-Zivin, and Bhaven Sampat
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">Review of Economic Studies</span>, January 2019: Vol. 86, No. 1.</p>
       </div>
       <p><span class="font-medium">Abstract: </span>
@@ -161,7 +161,7 @@ PAPER SECTION COPY THIS
           with Mitch Hoffman and Lisa Kahn
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">Quarterly Journal of Economics</span>, May 2018: Vol. 133, No. 2.</p>
         <p>Coverage:
           <span class="italic">
@@ -185,7 +185,7 @@ PAPER SECTION COPY THIS
           Expertise vs. Bias in Evaluation: Evidence from the NIH
         </a>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">American Economic Journal: Applied Economics</span>, April 2017: Vol. 9, No. 2.</p>
         <p>2019 Best Paper Prize: <span class="italic">American Economic Journal: Applied Economics</span></p>
         <p>Coverage:
@@ -210,7 +210,7 @@ PAPER SECTION COPY THIS
           with Pierre Azoulay and Bhaven Sampat
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">Science</span>, 31 March 2017: Vol. 355, No. 6332.</p>
         <p>Coverage:
           <span class="italic">
@@ -240,7 +240,7 @@ PAPER SECTION COPY THIS
           with Leila Agha
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p><span class="italic">Science</span>, 24 April 2015: Vol. 348, No. 6233.</p>
         <p>Coverage:
           <span class="italic">
@@ -258,7 +258,7 @@ PAPER SECTION COPY THIS
       </p>
     </div>
   </div>
-  <div class="mb-8 text-sm">
+  <div class="mb-8 text-base">
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Other Writing</div>
     <div class="mb-6">
       <div class="mb-2">
@@ -269,7 +269,7 @@ PAPER SECTION COPY THIS
           with Pierre Azoulay
         </p>
       </div>
-      <div class="text-teal-600 text-sm mb-2">
+      <div class="text-teal-600 text-base mb-2">
         <p>Forthcoming in Austin Goolsbee and Benjamin Jones eds.,
           <span class="italic">Innovation and Public Policy</span>, University of Chicago Press, 2020.
         </p>
@@ -279,7 +279,7 @@ PAPER SECTION COPY THIS
       </p>
     </div>
   </div>
-  <div class="mb-8 text-sm">
+  <div class="mb-8 text-base">
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Older Working Papers</div>
     <div class="mb-6">
       <div class="mb-2">
