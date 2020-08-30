@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /
 custom_menu_order: 3
 ---
+
 {%- comment -%} 
 PAPER SECTION COPY THIS
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">
+        <a class="text-blue-600 font-medium text-lg" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">
           Promotions and the "Peter Principle"
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Alan Benson and Kelly Shue
         </p>
       </div>
@@ -43,20 +44,21 @@ PAPER SECTION COPY THIS
 
 {%- comment -%} ALL OF THE CONTENT ON THIS PAGE IS INSIDE THIS BIG BAO {%- endcomment -%}
 <div class="lg:static">
+
 {%- comment -%} THIS SECTION IS WORKING PAPERS {%- endcomment -%}
-  <div class="mb-8 text-sm">
+  <div class="mb-8 text-base">
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Working Papers</div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://www.dropbox.com/s/iiuovcbyhxgfi7j/HiringAsExploration_NBERWP.pdf?dl=0">Hiring as Exploration</a>
-        <p class="italic text-sm">with Lindsey Raymond and Peter Bergman</p>
+        <a class="text-blue-600 font-medium text-lg" href="https://www.dropbox.com/s/iiuovcbyhxgfi7j/HiringAsExploration_NBERWP.pdf?dl=0">Hiring as Exploration</a>
+        <p class="italic">with Lindsey Raymond and Peter Bergman</p>
       </div>
       <p><span class="font-medium">Abstract: </span>This paper views hiring as a contextual bandit problem: to find the the best workers over time, firms must balance "exploitation" (selecting from groups with proven track records) with "exploration'' (selecting from under-represented groups to learn about quality).  Yet modern hiring algorithms, based on "supervised learning" approaches, are designed solely for exploitation.  Instead, we build a resume screening algorithm that values exploration by evaluating candidates according to their statistical upside potential.  Using data from professional services recruiting within a Fortune 500 firm, we show that this approach improves the quality (as measured by eventual hiring rates) of candidates selected for an interview, while also increasing demographic diversity, relative to the firm's existing practices.  The same is not true for traditional supervised learning based algorithms, which improve hiring rates but select far fewer Black and Hispanic applicants.  In an extension, we show that exploration-based algorithms are also able to learn more effectively about simulated changes in applicant hiring potential over time. Together, our results highlight the importance of incorporating exploration in developing decision-making algorithms that are potentially both more efficient and equitable.</p>
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://www.dropbox.com/s/xjyfgfoqvgo6axg/draft_52_DL.pdf?dl=0">Insurance Design and Pharmaceutical Innovation</a>
-        <p class="italic text-sm">with Leila Agha and Soomi Kim</p>
+        <a class="text-blue-600 font-medium text-lg" href="https://www.dropbox.com/s/xjyfgfoqvgo6axg/draft_52_DL.pdf?dl=0">Insurance Design and Pharmaceutical Innovation</a>
+        <p class="italic">with Leila Agha and Soomi Kim</p>
       </div>
       <p><span class="font-medium">Abstract: </span>This paper studies how insurance coverage policies affect incentives for pharmaceutical innovation. In the United States, the majority of drugs are sold to Pharmacy Benefit Managers (PBMs), which administer prescription drug plans on behalf of insurers. Beginning in 2012, PBMs began adopting "closed formularies", excluding coverage for certain drugs, including many newly approved drugs, when adequate substitutes were available. We show that this policy reshaped upstream R&D activity and led pharmaceutical firms to shift investment away from therapeutic classes at greater risk of facing coverage exclusions. This move translated into a relative decline in the number of drug candidates that appear more incremental in their therapeutic contribution: that is, those in drug classes with more pre-existing therapies and less scientifically novel research.</p>
     </div>
@@ -65,8 +67,8 @@ PAPER SECTION COPY THIS
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Accepted, Forthcoming, and Published Articles</div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/drugnovelty?attredirects=0">Missing Novelty in Drug Development</a>
-        <p class="italic text-sm">with Joshua Krieger and Dimitris Papanikolaou</p>
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/drugnovelty?attredirects=0">Missing Novelty in Drug Development</a>
+        <p class="italic">with Joshua Krieger and Dimitris Papanikolaou</p>
       </div>
       <div class="text-teal-600 text-sm mb-2">
         <p>Accepted, <span class="italic">Review of Financial Studies</span></p>
@@ -76,8 +78,8 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">Internal Deadlines, Drug Approvals, and Safety Problems</a>
-        <p class="italic text-sm">with Lauren Cohen and Umit Gurun</p>
+        <a class="text-blue-600 font-medium text-lg" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">Internal Deadlines, Drug Approvals, and Safety Problems</a>
+        <p class="italic">with Lauren Cohen and Umit Gurun</p>
       </div>
       <div class="text-teal-600 text-sm mb-2">
         <p>Accepted, <span class="italic">American Economic Review: Insights</span></p>
@@ -87,10 +89,10 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://uc8cfb7966a433e5662d8ac757d0.dl.dropboxusercontent.com/cd/0/inline2/A6jJ_vdnvS6BtHRDHTu1EL-QghCnMZNNaFAriSf3FD6d5FkgoJ1HQQSpD1QueaX6ZZAuyMO7gwpN2hKY1AJ8ee_MuHNz6PpQzavTZM0JLA2CRHNbfqvui-Blik9d44bVE34Db5Pjwn-SlLwCePbcroJp0IyiZA5odBwTsEGxnM9G5-tOp78OFbJiHff9hmsULk6XqPH2qKKE77r6FNLn0Qh1EMcKDrYYbF6KFHHFZoLZKldwKhO6AYyGLKSzLMk7Jualmd1LVhgt_8GPjc2xB0xwezmXMW-Sbpxg5sF2QSxQBrzC9VPudR--sBQNyv2tRp5IAar6VZkwCBXRcYDhxm_pDd13kGMJc7YdphsM9arU-Q/file#">
+        <a class="text-blue-600 font-medium text-lg" href="https://uc8cfb7966a433e5662d8ac757d0.dl.dropboxusercontent.com/cd/0/inline2/A6jJ_vdnvS6BtHRDHTu1EL-QghCnMZNNaFAriSf3FD6d5FkgoJ1HQQSpD1QueaX6ZZAuyMO7gwpN2hKY1AJ8ee_MuHNz6PpQzavTZM0JLA2CRHNbfqvui-Blik9d44bVE34Db5Pjwn-SlLwCePbcroJp0IyiZA5odBwTsEGxnM9G5-tOp78OFbJiHff9hmsULk6XqPH2qKKE77r6FNLn0Qh1EMcKDrYYbF6KFHHFZoLZKldwKhO6AYyGLKSzLMk7Jualmd1LVhgt_8GPjc2xB0xwezmXMW-Sbpxg5sF2QSxQBrzC9VPudR--sBQNyv2tRp5IAar6VZkwCBXRcYDhxm_pDd13kGMJc7YdphsM9arU-Q/file#">
           Trust, Collaboration, and Economic Growth
         </a>
-        <p class="mb-2 italic text-sm">
+        <p class="mb-2 italic">
           with Jiro Kondo and Dimitris Papanikolaou
         </p>
       </div>
@@ -103,10 +105,10 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">
+        <a class="text-blue-600 font-medium text-lg" href="http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf">
           Promotions and the "Peter Principle"
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Alan Benson and Kelly Shue
         </p>
       </div>
@@ -136,10 +138,10 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/private_patenting_dli.pdf?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/private_patenting_dli.pdf?attredirects=0">
           Public R&D Investments and Private Sector Patenting: Evidence from NIH Funding Rules
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Pierre Azoulay, Josh Graff-Zivin, and Bhaven Sampat
         </p>
       </div>
@@ -152,10 +154,10 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/discretion.pdf?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/discretion.pdf?attredirects=0">
           Discretion in Hiring
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Mitch Hoffman and Lisa Kahn
         </p>
       </div>
@@ -179,7 +181,7 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0">
           Expertise vs. Bias in Evaluation: Evidence from the NIH
         </a>
       </div>
@@ -198,13 +200,13 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/Li_Azoulay_Sampat.pdf?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/Li_Azoulay_Sampat.pdf?attredirects=0">
           The Applied Value of Public Investments in Biomedical Research
         </a>
         <a class="text-blue-600 block text-base" href="https://sites.google.com/site/danielleli/files/Li_Azoulay_Sampat_SOM.pdf?attredirects=0">
           [Supplementary Materials]
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Pierre Azoulay and Bhaven Sampat
         </p>
       </div>
@@ -228,13 +230,13 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/BigNamesOrBigIdeas.pdf?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/BigNamesOrBigIdeas.pdf?attredirects=0">
           Big Names or Big Ideas: Do Peer Review Panels Select the Best Science Proposals?
         </a>
         <a class="text-blue-600 block text-base" href="http://www.sciencemag.org/content/suppl/2015/04/22/348.6233.434.DC1/Li-SM.pdf">
           [Supplementary Materials]
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Leila Agha
         </p>
       </div>
@@ -260,10 +262,10 @@ PAPER SECTION COPY THIS
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Other Writing</div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0">
           Scientific Grant Funding
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Pierre Azoulay
         </p>
       </div>
@@ -281,7 +283,7 @@ PAPER SECTION COPY THIS
     <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Older Working Papers</div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/NCLB_16Oct2012.pdf?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/NCLB_16Oct2012.pdf?attredirects=0">
           School Accountability and Principal Mobility: How No Child Left Behind Affects the Allocation of School Leaders
         </a>
       </div>
@@ -291,10 +293,10 @@ PAPER SECTION COPY THIS
     </div>
     <div class="mb-6">
       <div class="mb-2">
-        <a class="text-blue-600 font-medium text-base" href="https://sites.google.com/site/danielleli/files/Li_SiblingDiscountsCatholicSchools_2011.pdf?attredirects=0">
+        <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/Li_SiblingDiscountsCatholicSchools_2011.pdf?attredirects=0">
           Cheaper By the Dozen: Using Sibling Discounts at Catholic Schools to Estimate the Price Elasticity of Private School Attendance
         </a>
-        <p class="italic text-sm">
+        <p class="italic">
           with Susan Dynarski and Jon Gruber
         </p>
       </div>

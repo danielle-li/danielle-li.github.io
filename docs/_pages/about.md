@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /
+permalink: /about/
 custom_menu_order: 1
 ---
 
