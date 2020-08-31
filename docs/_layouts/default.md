@@ -37,7 +37,7 @@
     </div>
     <div class="w-full max-w-screen-xl mx-auto px-6">
       <div class="lg:flex -mx-6">
-        <div id="sidebar" class="fixed h-full w-full lg:static lg:h-auto lg:overflow-y-visible lg:block lg:border-0 lg:w-1/5 hidden pt-16">
+        <div id="sidebar" class="fixed h-full w-full lg:static lg:h-auto lg:overflow-y-visible lg:block lg:border-0 lg:w-1/4 hidden pt-16">
           <div id="sidebar-wrapper" class="lg:pl-12 md:pl-6 h-full overflow-y-auto scrolling-touch lg:h-auto lg:block lg:sticky overflow-hidden">
             {% include sidebar.md %}
           </div>
