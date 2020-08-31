@@ -2,10 +2,8 @@
   <img class="w-full rounded"
     src="{{'/assets/img/danielle-li-headshot.jpg' | prepend: site.url}}" alt="Headshot"
     style="transform: scaleX(-1);-webkit-transform: scaleX(-1);"
-
   >
-    <br>
-  <div class="pt-4">
+  <div class="pt-4 mt-4">
     <div class="font-bold text-xl mb-2">Danielle Li</div>
     <div class="text-gray-700 text-base">
       <p>Associate Professor</p>
