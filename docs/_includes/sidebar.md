@@ -1,6 +1,6 @@
 <div>
   <img class="w-full rounded"
-    src="{{'/assets/img/danielle-li.jpg' | prepend: site.url}}" alt="Headshot"
+    src="{{'/assets/img/danielle-li-headshot.jpg' | prepend: site.url}}" alt="Headshot"
     style="transform: scaleX(-1);-webkit-transform: scaleX(-1);"
 
   >

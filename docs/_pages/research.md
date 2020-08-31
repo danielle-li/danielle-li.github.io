@@ -83,7 +83,7 @@ PAPER SECTION COPY THIS
       </div>
       <div class="text-teal-600 text-base mb-2">
         <p>Accepted, <span class="italic">American Economic Review: Insights</span></p>
-        <p>Coverage: <a class="italic text-blue-600" href="https://www.wsj.com/articles/fdas-deadline-problem-11578047402">Wall Street Journal</a></p>
+        <p>Coverage: <a class="italic text-teal-600" href="https://www.wsj.com/articles/fdas-deadline-problem-11578047402">Wall Street Journal</a></p>
       </div>
       <p><span class="font-medium">Abstract: </span>Absent explicit quotas, incentives, reporting, or fiscal year-end motives, drug approvals around the world surge in December and at the end of each month. This pattern is found in a large, global data set consisting of drug approvals from the United States, the European Union, Japan, China, and South Korea, suggesting that this pattern reflects an empirical regularity common across cultures and regulatory regimes.  In the United States, the number of December drug approvals is roughly 80% larger than in any other month.  Similar approval spikes occur at the end of each calendar month.  Additionally, approvals spike before holidays, such as before Thanksgiving in the United States and the Chinese New Year in China (but not vice versa).  Drugs approved in December and at month-ends are associated with significantly more adverse effects, including more hospitalizations, life-threatening incidents, and deaths.  This pattern is consistent with a model in which regulators rush to meet internal production benchmarks associated with salient calendar periods: this type of "desk-clearing" behavior results in more lax review, which leads both to increased output and increased safety issues.</p>
     </div>
@@ -117,18 +117,18 @@ PAPER SECTION COPY THIS
         <p>Best Paper Prize: <span class="italic">2017 FIRCG Conference, 2018 CEPR Management, Organizations, and Entrepreneurship Conference</span></p>
         <p>Coverage:
           <span class="italic">
-          <a href="http://ww2.cfo.com/human-capital-management/2018/02/be-wary-of-promoting-top-sales-managers/" class="text-blue-600">CFO</a>,
-          <a href="https://www.economist.com/business/2019/06/16/the-promotion-curse" class="text-blue-600">The Economist</a>,
-          <a href="https://www.ft.com/content/6160d980-8a92-11e8-bf9e-8771d5404543" class="text-blue-600">Financial Times</a>,
-          <a href="https://www.forbes.com/sites/roddwagner/2018/04/10/new-evidence-the-peter-principle-is-real-and-what-to-do-about-it/#7ea76df91809" class="text-blue-600">Forbes</a>,
-          <a href="https://hbr.org/2018/03/research-do-people-really-get-promoted-to-their-level-of-incompetence" class="text-blue-600">Harvard Business Review</a>,
-          <a href="https://www.nytimes.com/2018/10/26/business/youve-become-rich-that-doesnt-mean-youre-great-at-everything.html" class="text-blue-600">New York Times</a>,
-          <a href="https://www.npr.org/2018/04/03/599077775/social-science-researchers-examine-the-peter-principle" class="text-blue-600">NPR Hidden Brain</a>,
-          <a href="https://work.qz.com/1212556/your-hotshot-coworker-would-be-a-terrible-boss-and-research-proves-it/" class="text-blue-600">Quartz</a>,
-          <a href="http://time.com/money/5168244/bad-bosses-explained/?xid=homepage" class="text-blue-600">Time</a>,
-          <a href="https://www.thetimes.co.uk/article/why-top-dogs-might-baulk-at-the-lead-02vc83t7x" class="text-blue-600">The Times (UK)</a>,
-          <a href="https://www.wsj.com/articles/the-curse-of-the-superstar-boss-1540008001" class="text-blue-600">Wall Street Journal (1)</a>,
-          <a href="https://www.wsj.com/articles/the-biggest-mistakes-companies-make-with-hiring-11550763917" class="text-blue-600">Wall Street Journal (2)</a>
+          <a href="http://ww2.cfo.com/human-capital-management/2018/02/be-wary-of-promoting-top-sales-managers/" class="text-teal-600">CFO</a>,
+          <a href="https://www.economist.com/business/2019/06/16/the-promotion-curse" class="text-teal-600">The Economist</a>,
+          <a href="https://www.ft.com/content/6160d980-8a92-11e8-bf9e-8771d5404543" class="text-teal-600">Financial Times</a>,
+          <a href="https://www.forbes.com/sites/roddwagner/2018/04/10/new-evidence-the-peter-principle-is-real-and-what-to-do-about-it/#7ea76df91809" class="text-teal-600">Forbes</a>,
+          <a href="https://hbr.org/2018/03/research-do-people-really-get-promoted-to-their-level-of-incompetence" class="text-teal-600">Harvard Business Review</a>,
+          <a href="https://www.nytimes.com/2018/10/26/business/youve-become-rich-that-doesnt-mean-youre-great-at-everything.html" class="text-teal-600">New York Times</a>,
+          <a href="https://www.npr.org/2018/04/03/599077775/social-science-researchers-examine-the-peter-principle" class="text-teal-600">NPR Hidden Brain</a>,
+          <a href="https://work.qz.com/1212556/your-hotshot-coworker-would-be-a-terrible-boss-and-research-proves-it/" class="text-teal-600">Quartz</a>,
+          <a href="http://time.com/money/5168244/bad-bosses-explained/?xid=homepage" class="text-teal-600">Time</a>,
+          <a href="https://www.thetimes.co.uk/article/why-top-dogs-might-baulk-at-the-lead-02vc83t7x" class="text-teal-600">The Times (UK)</a>,
+          <a href="https://www.wsj.com/articles/the-curse-of-the-superstar-boss-1540008001" class="text-teal-600">Wall Street Journal (1)</a>,
+          <a href="https://www.wsj.com/articles/the-biggest-mistakes-companies-make-with-hiring-11550763917" class="text-teal-600">Wall Street Journal (2)</a>
           </span>
         </p>
       </div>
@@ -165,13 +165,13 @@ PAPER SECTION COPY THIS
         <p><span class="italic">Quarterly Journal of Economics</span>, May 2018: Vol. 133, No. 2.</p>
         <p>Coverage:
           <span class="italic">
-          <a href="https://www.theatlantic.com/business/archive/2015/11/should-computers-decide-who-gets-hired/416898/" class="text-blue-600">The Atlantic</a>,
-          <a href="https://www.bls.gov/opub/mlr/2016/beyond-bls/pdf/would-standardized-job-testing-assist-employers.pdf" class="text-blue-600">Bureau of Labor Statistics</a>,
-          <a href="http://chicagopolicyreview.org/2016/01/07/testing-vs-discretion-how-should-firms-hire-their-employees/" class="text-blue-600">Chicago Policy Review</a>,
-          <a href="https://www.forbes.com/sites/hbsworkingknowledge/2016/02/18/machines-make-smarter-hiring-decisions-than-managers/#21de9cd91522" class="text-blue-600">Forbes</a>,
-          <a href="http://www.nber.org/digest/apr16/w21709.html" class="text-blue-600">NBER Digest</a>,
-          <a href="https://www.wsj.com/articles/a-personality-test-could-stand-in-the-way-of-your-next-job-1429065001" class="text-blue-600">Wall Street Journal (1)</a>,
-          <a href="https://www.wsj.com/articles/for-lower-paid-workers-the-robot-overlords-have-arrived-11556719323" class="text-blue-600">Wall Street Journal (2)</a>
+          <a href="https://www.theatlantic.com/business/archive/2015/11/should-computers-decide-who-gets-hired/416898/" class="text-teal-600">The Atlantic</a>,
+          <a href="https://www.bls.gov/opub/mlr/2016/beyond-bls/pdf/would-standardized-job-testing-assist-employers.pdf" class="text-teal-600">Bureau of Labor Statistics</a>,
+          <a href="http://chicagopolicyreview.org/2016/01/07/testing-vs-discretion-how-should-firms-hire-their-employees/" class="text-teal-600">Chicago Policy Review</a>,
+          <a href="https://www.forbes.com/sites/hbsworkingknowledge/2016/02/18/machines-make-smarter-hiring-decisions-than-managers/#21de9cd91522" class="text-teal-600">Forbes</a>,
+          <a href="http://www.nber.org/digest/apr16/w21709.html" class="text-teal-600">NBER Digest</a>,
+          <a href="https://www.wsj.com/articles/a-personality-test-could-stand-in-the-way-of-your-next-job-1429065001" class="text-teal-600">Wall Street Journal (1)</a>,
+          <a href="https://www.wsj.com/articles/for-lower-paid-workers-the-robot-overlords-have-arrived-11556719323" class="text-teal-600">Wall Street Journal (2)</a>
           </span>
         </p>
       </div>
@@ -190,7 +190,7 @@ PAPER SECTION COPY THIS
         <p>2019 Best Paper Prize: <span class="italic">American Economic Journal: Applied Economics</span></p>
         <p>Coverage:
           <span class="italic">
-          <a href="https://digitopoly.org/2012/01/20/how-useful-is-peer-review/" class="text-blue-600">Digitopoly</a>
+          <a href="https://digitopoly.org/2012/01/20/how-useful-is-peer-review/" class="text-teal-600">Digitopoly</a>
           </span>
         </p>
       </div>
@@ -214,13 +214,13 @@ PAPER SECTION COPY THIS
         <p><span class="italic">Science</span>, 31 March 2017: Vol. 355, No. 6332.</p>
         <p>Coverage:
           <span class="italic">
-          <a href="https://www.aaas.org/news/publicly-funded-research-lays-critical-foundation-private-sector" class="text-blue-600">AAAS News</a>,
-          <a href="http://www.latimes.com/science/sciencenow/la-sci-sn-nih-grants-patents-20170330-story.html" class="text-blue-600">LA Times</a>,
-          <a href="https://www.nature.com/news/nih-research-grants-yield-economic-windfall-1.21752" class="text-blue-600">Nature</a>,
-          <a href="https://www.pbs.org/newshour/science/taxpayers-get-moneys-worth-national-institutes-health" class="text-blue-600">PBS News Hour</a>,
-          <a href="https://tonic.vice.com/en_us/article/538qxn/you-should-be-mad-as-hell-that-trump-wants-to-cut-research-grants" class="text-blue-600">Vice</a>,
-          <a href="https://www.washingtonpost.com/news/wonk/wp/2017/03/30/the-hottest-field-in-cancer-research-depends-on-funding-trump-wants-to-cut/?noredirect=on&utm_term=.6749f3b4af1f" class="text-blue-600">Washington Post</a>,
-          <a href="https://www.weforum.org/agenda/2015/05/how-biomedical-research-funding-spurs-private-patenting/" class="text-blue-600">World Economic Forum</a>
+          <a href="https://www.aaas.org/news/publicly-funded-research-lays-critical-foundation-private-sector" class="text-teal-600">AAAS News</a>,
+          <a href="http://www.latimes.com/science/sciencenow/la-sci-sn-nih-grants-patents-20170330-story.html" class="text-teal-600">LA Times</a>,
+          <a href="https://www.nature.com/news/nih-research-grants-yield-economic-windfall-1.21752" class="text-teal-600">Nature</a>,
+          <a href="https://www.pbs.org/newshour/science/taxpayers-get-moneys-worth-national-institutes-health" class="text-teal-600">PBS News Hour</a>,
+          <a href="https://tonic.vice.com/en_us/article/538qxn/you-should-be-mad-as-hell-that-trump-wants-to-cut-research-grants" class="text-teal-600">Vice</a>,
+          <a href="https://www.washingtonpost.com/news/wonk/wp/2017/03/30/the-hottest-field-in-cancer-research-depends-on-funding-trump-wants-to-cut/?noredirect=on&utm_term=.6749f3b4af1f" class="text-teal-600">Washington Post</a>,
+          <a href="https://www.weforum.org/agenda/2015/05/how-biomedical-research-funding-spurs-private-patenting/" class="text-teal-600">World Economic Forum</a>
           </span>
         </p>
       </div>
@@ -244,12 +244,12 @@ PAPER SECTION COPY THIS
         <p><span class="italic">Science</span>, 24 April 2015: Vol. 348, No. 6233.</p>
         <p>Coverage:
           <span class="italic">
-          <a href="https://www.scienceintheclassroom.org/research-papers/does-peer-review-choose-best-science" class="text-blue-600">AAAS Science in the Classroom</a>,
-          <a href="http://language.chinadaily.com.cn/columnist/2016-02/26/content_23658837.htm" class="text-blue-600">China Daily</a>,
-          <a href="https://www.scienceintheclassroom.org/research-papers/does-peer-review-choose-best-science" class="text-blue-600">Chronicle of Higher Education</a>,
-          <a href="https://www.sciencenews.org/blog/scicurious/peer-reviewed-study-finds-value-peer-reviewed-research" class="text-blue-600">Science News</a>,
-          <a href="https://www.the-scientist.com/?articles.view/articleNo/42787/title/Study--Peer-Review-Predicts-Success/" class="text-blue-600">The Scientist</a>,
-          <a href="https://retractionwatch.com/2015/04/23/does-peer-review-ferret-out-the-best-science-new-study-tries-to-answer/" class="text-blue-600">Retraction Watch</a>
+          <a href="https://www.scienceintheclassroom.org/research-papers/does-peer-review-choose-best-science" class="text-teal-600">AAAS Science in the Classroom</a>,
+          <a href="http://language.chinadaily.com.cn/columnist/2016-02/26/content_23658837.htm" class="text-teal-600">China Daily</a>,
+          <a href="https://www.scienceintheclassroom.org/research-papers/does-peer-review-choose-best-science" class="text-teal-600">Chronicle of Higher Education</a>,
+          <a href="https://www.sciencenews.org/blog/scicurious/peer-reviewed-study-finds-value-peer-reviewed-research" class="text-teal-600">Science News</a>,
+          <a href="https://www.the-scientist.com/?articles.view/articleNo/42787/title/Study--Peer-Review-Predicts-Success/" class="text-teal-600">The Scientist</a>,
+          <a href="https://retractionwatch.com/2015/04/23/does-peer-review-ferret-out-the-best-science-new-study-tries-to-answer/" class="text-teal-600">Retraction Watch</a>
           </span>
         </p>
       </div>
