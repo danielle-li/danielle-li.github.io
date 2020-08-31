@@ -47,7 +47,7 @@ PAPER SECTION COPY THIS
 
 {%- comment -%} THIS SECTION IS WORKING PAPERS {%- endcomment -%}
   <div class="mb-8 text-base">
-    <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Working Papers</div>
+    <div class="mb-4 text-gray-600 uppercase tracking-wide text-lg">Working Papers</div>
     <div class="mb-6">
       <div class="mb-2">
         <a class="text-blue-600 font-medium text-lg" href="https://www.dropbox.com/s/iiuovcbyhxgfi7j/HiringAsExploration_NBERWP.pdf?dl=0">Hiring as Exploration</a>
@@ -64,7 +64,7 @@ PAPER SECTION COPY THIS
     </div>
   </div>
   <div class="mb-8 text-base">
-    <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Accepted, Forthcoming, and Published Articles</div>
+    <div class="mb-4 text-gray-600 uppercase tracking-wide text-lg">Accepted, Forthcoming, and Published Articles</div>
     <div class="mb-6">
       <div class="mb-2">
         <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/drugnovelty?attredirects=0">Missing Novelty in Drug Development</a>
@@ -259,7 +259,7 @@ PAPER SECTION COPY THIS
     </div>
   </div>
   <div class="mb-8 text-base">
-    <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Other Writing</div>
+    <div class="mb-4 text-gray-600 uppercase tracking-wide text-lg">Other Writing</div>
     <div class="mb-6">
       <div class="mb-2">
         <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0">
@@ -280,7 +280,7 @@ PAPER SECTION COPY THIS
     </div>
   </div>
   <div class="mb-8 text-base">
-    <div class="mb-4 text-gray-500 uppercase tracking-wide text-lg">Older Working Papers</div>
+    <div class="mb-4 text-gray-600 uppercase tracking-wide text-lg">Older Working Papers</div>
     <div class="mb-6">
       <div class="mb-2">
         <a class="text-blue-600 font-medium text-lg" href="https://sites.google.com/site/danielleli/files/NCLB_16Oct2012.pdf?attredirects=0">
