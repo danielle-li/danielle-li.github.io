@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Internal Deadlines, Drug Approvals, and Safety Problems
-external_link: http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf
+external_link: https://www.dropbox.com/s/62waht49hq0bolz/december_drugs_combined.pdf?dl=0
 collaboration: with Lauren Cohen and Umit Gurun
 category: accepted-forthcoming-published
 custom_order: 2
