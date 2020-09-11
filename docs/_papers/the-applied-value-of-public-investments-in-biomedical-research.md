@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: The Applied Value of Public Investments in Biomedical Research
-external_link: https://sites.google.com/site/danielleli/files/Li_Azoulay_Sampat.pdf?attredirects=0
-supplementary_materials_link: https://sites.google.com/site/danielleli/files/Li_Azoulay_Sampat_SOM.pdf?attredirects=0
+link: /assets/docs/Li_Azoulay_Sampat_Science.pdf
+supplementary_materials_link: /assets/docs/Li_Azoulay_Sampat_SOM.pdf
 collaboration: with Pierre Azoulay and Bhaven Sampat
 category: accepted-forthcoming-published
 custom_order: 8

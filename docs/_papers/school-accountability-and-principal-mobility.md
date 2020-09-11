@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "School Accountability and Principal Mobility: How No Child Left Behind Affects the Allocation of School Leaders"
-external_link: https://sites.google.com/site/danielleli/files/NCLB_16Oct2012.pdf?attredirects=0
+link: /assets/docs/NCLBWP.pdf
 category: older-working-papers
 custom_order: 1
 ---

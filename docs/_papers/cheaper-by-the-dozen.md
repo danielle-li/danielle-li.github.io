@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Cheaper By the Dozen: Using Sibling Discounts at Catholic Schools to Estimate the Price Elasticity of Private School Attendance"
-external_link: https://sites.google.com/site/danielleli/files/Li_SiblingDiscountsCatholicSchools_2011.pdf?attredirects=0
+link:  /assets/docs/SiblingDiscountsWP.pdf
 collaboration: with Susan Dynarski and Jon Gruber
 category: older-working-papers
 custom_order: 2

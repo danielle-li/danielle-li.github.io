@@ -44,7 +44,7 @@
           </a>
         </li>
         <li>
-          <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYW5pZWxsZWxpfGd4OjNlZDljZTQ4NTJmODMzNGQ"
+          <a href=/assets/docs/CV_04_2020.pdf
             class="py-1 transition duration-200 ease-in-out relative block font-medium hover:translate-x-2px hover:text-gray-900 text-gray-600"
           >
             <span class="relative">CV</span>

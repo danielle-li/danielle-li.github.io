@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Missing Novelty in Drug Development
-external_link: https://sites.google.com/site/danielleli/files/drugnovelty?attredirects=0
+link: /assets/docs/MissingNovelty_June2020.pdf
 collaboration: with Joshua Krieger and Dimitris Papanikolaou
 category: accepted-forthcoming-published
 custom_order: 1

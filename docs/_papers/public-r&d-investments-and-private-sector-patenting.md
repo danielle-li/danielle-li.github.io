@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Public R&D Investments and Private Sector Patenting: Evidence from NIH Funding Rules"
-external_link: https://sites.google.com/site/danielleli/files/private_patenting_dli.pdf?attredirects=0
+link: /assets/docs/PrivatePatentingReStud.pdf
 collaboration: with Pierre Azoulay, Josh Graff-Zivin, and Bhaven Sampat
 category: accepted-forthcoming-published
 custom_order: 5

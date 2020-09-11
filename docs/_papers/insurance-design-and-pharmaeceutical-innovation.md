@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Insurance Design and Pharmaceutical Innovation
-external_link: https://www.dropbox.com/s/xjyfgfoqvgo6axg/draft_52_DL.pdf?dl=0
+link: /assets/docs/FormulariesNBER.pdf
 collaboration: with Leila Agha and Soomi Kim
 category: working
 custom_order: 2

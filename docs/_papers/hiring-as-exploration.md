@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Hiring as Exploration
-external_link: https://www.dropbox.com/s/iiuovcbyhxgfi7j/HiringAsExploration_NBERWP.pdf?dl=0
+link: /assets/docs/HiringAsExploration_NBERWP.pdf
 collaboration: with Lindsey Raymond and Peter Bergman
 category: working
 custom_order: 1

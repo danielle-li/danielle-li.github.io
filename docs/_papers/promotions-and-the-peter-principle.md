@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Promotions and the "Peter Principle"
-external_link: http://www.umitgurun.com/wp-content/uploads/2019/07/DecemberDrugs.pdf
+link: /assets/docs/PeterPrincipleQJE.pdf
 collaboration: with Alan Benson and Kelly Shue
 category: accepted-forthcoming-published
 custom_order: 4

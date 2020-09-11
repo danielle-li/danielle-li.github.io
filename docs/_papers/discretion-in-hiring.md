@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Discretion in Hiring
-external_link: https://sites.google.com/site/danielleli/files/discretion.pdf?attredirects=0
+link: /assets/docs/DiscretionHiringQJE.pdf
 collaboration: with Mitch Hoffman and Lisa Kahn
 category: accepted-forthcoming-published
 custom_order: 6

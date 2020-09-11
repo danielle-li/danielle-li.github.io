@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Scientific Grant Funding
-external_link: https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0
+link: /assets/docs/ScientificGrantFundingNBER.pdf
 collaboration: with Pierre Azoulay
 category: other-writing
 custom_order: 1

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Expertise vs. Bias in Evaluation: Evidence from the NIH"
-external_link: https://sites.google.com/site/danielleli/files/bias_expertise_nih_dli?attredirects=0
+link: /assets/docs/BiasEvaluationAEJ.pdf
 category: accepted-forthcoming-published
 custom_order: 7
 ---
