@@ -9,7 +9,7 @@ custom_order: 6
 <div>
   <div class="text-teal-600 text-base mb-2">
     <p><span class="italic">Quarterly Journal of Economics</span>, May 2018: Vol. 133, No. 2.</p>
-    <p>Coverage:
+    <p>Selected Coverage:
       <a href="https://www.theatlantic.com/business/archive/2015/11/should-computers-decide-who-gets-hired/416898/" class="italic">The Atlantic</a>,
       <a href="https://www.bls.gov/opub/mlr/2016/beyond-bls/pdf/would-standardized-job-testing-assist-employers.pdf" class="italic">Bureau of Labor Statistics</a>,
       <a href="http://chicagopolicyreview.org/2016/01/07/testing-vs-discretion-how-should-firms-hire-their-employees/" class="italic">Chicago Policy Review</a>,

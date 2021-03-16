@@ -11,7 +11,7 @@ custom_order: 4
   <div class="text-teal-600 text-base mb-2">
     <p><span class="italic">Quarterly Journal of Economics</span>, November 2019: Vol. 134, No. 4.</p>
     <p>Best Paper Prize: <span class="italic">2017 FIRCG Conference, 2018 CEPR Management, Organizations, and Entrepreneurship Conference</span></p>
-    <p>Coverage:
+    <p>Selected Coverage:
       <a href="http://ww2.cfo.com/human-capital-management/2018/02/be-wary-of-promoting-top-sales-managers/" class="italic">CFO</a>,
       <a href="https://www.economist.com/business/2019/06/16/the-promotion-curse" class="italic">The Economist</a>,
       <a href="https://www.ft.com/content/6160d980-8a92-11e8-bf9e-8771d5404543" class="italic">Financial Times</a>,

@@ -9,7 +9,7 @@ custom_order: 7
   <div class="text-teal-600 text-base mb-2">
     <p><span class="italic">American Economic Journal: Applied Economics</span>, April 2017: Vol. 9, No. 2.</p>
     <p>2019 Best Paper Prize: <span class="italic">American Economic Journal: Applied Economics</span></p>
-    <p>Coverage:
+    <p>Selected Coverage:
       <a href="https://digitopoly.org/2012/01/20/how-useful-is-peer-review/" class="italic">Digitopoly</a>
     </p>
   </div>

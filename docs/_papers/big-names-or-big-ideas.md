@@ -10,7 +10,7 @@ custom_order: 9
 <div>
   <div class="text-teal-600 text-base mb-2">
     <p><span class="italic">Science</span>, 24 April 2015: Vol. 348, No. 6233.</p>
-    <p>Coverage:
+    <p>Selected Coverage:
       <a href="https://www.scienceintheclassroom.org/research-papers/does-peer-review-choose-best-science" class="italic">AAAS Science in the Classroom</a>,
       <a href="http://language.chinadaily.com.cn/columnist/2016-02/26/content_23658837.htm" class="italic">China Daily</a>,
       <a href="https://www.scienceintheclassroom.org/research-papers/does-peer-review-choose-best-science" class="italic">Chronicle of Higher Education</a>,

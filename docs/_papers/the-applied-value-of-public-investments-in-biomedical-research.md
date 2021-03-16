@@ -10,7 +10,7 @@ custom_order: 8
 <div>
   <div class="text-teal-600 text-base mb-2">
     <p><span class="italic">Science</span>, 31 March 2017: Vol. 355, No. 6332.</p>
-    <p>Coverage:
+    <p>Selected Coverage:
       <a href="https://www.aaas.org/news/publicly-funded-research-lays-critical-foundation-private-sector" class="italic">AAAS News</a>,
       <a href="http://www.latimes.com/science/sciencenow/la-sci-sn-nih-grants-patents-20170330-story.html" class="italic">LA Times</a>,
       <a href="https://www.nature.com/news/nih-research-grants-yield-economic-windfall-1.21752" class="italic">Nature</a>,
