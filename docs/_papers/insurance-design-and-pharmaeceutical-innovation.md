@@ -4,7 +4,7 @@ title: Insurance Design and Pharmaceutical Innovation
 link: /assets/docs/FormulariesNBER.pdf
 collaboration: with Leila Agha and Soomi Kim
 category: working
-custom_order: 2
+custom_order: 3
 ---
 
   <div>
