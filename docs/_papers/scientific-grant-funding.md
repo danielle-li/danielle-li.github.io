@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Scientific Grant Funding
-link: /assets/docs/ScientificGrantFundingNBER.pdf
+link: /assets/docs/ScientificGrantFunding.pdf
 collaboration: with Pierre Azoulay
 category: other-writing
 custom_order: 1

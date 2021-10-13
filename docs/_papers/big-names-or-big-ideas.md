@@ -2,7 +2,6 @@
 layout: paper
 title: "Big Names or Big Ideas: Do Peer Review Panels Select the Best Science Proposals?"
 link: /assets/docs/BigNamesOrBigIdeas.pdf
-supplementary_materials_link: /assets/docs/BigNamesSOM.pdf
 collaboration: with Leila Agha
 category: accepted-forthcoming-published
 custom_order: 9

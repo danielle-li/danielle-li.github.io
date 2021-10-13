@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Discretion in Hiring
-link: /assets/docs/DiscretionHiringQJE.pdf
+link: /assets/docs/DiscretionInHiring.pdf
 collaboration: with Mitch Hoffman and Lisa Kahn
 category: accepted-forthcoming-published
 custom_order: 6

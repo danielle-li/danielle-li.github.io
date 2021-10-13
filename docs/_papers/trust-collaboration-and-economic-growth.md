@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Trust, Collaboration, and Economic Growth
-link: /assets/docs/TrustCollaborationGrowthMS.pdf
+link: /assets/docs/TrustCollaborationAndEconomicGrowth.pdf
 collaboration: with Jiro Kondo and Dimitris Papanikolaou
 category: accepted-forthcoming-published
 custom_order: 3

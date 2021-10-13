@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Internal Deadlines, Drug Approvals, and Safety Problems
-link: /assets/docs/InternalDeadlinesAug2020.pdf
+link: /assets/docs/InternalDeadlinesDrugApprovals.pdf
 collaboration: with Lauren Cohen and Umit Gurun
 category: accepted-forthcoming-published
 custom_order: 2

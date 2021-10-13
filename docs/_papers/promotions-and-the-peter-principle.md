@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Promotions and the "Peter Principle"
-link: /assets/docs/PeterPrincipleQJE.pdf
+link: /assets/docs/PromotionsAndThePeterPrinciple.pdf
 collaboration: with Alan Benson and Kelly Shue
 category: accepted-forthcoming-published
 custom_order: 4
