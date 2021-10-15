@@ -57,6 +57,13 @@
             <span class="relative">Research Statement</span>
           </a>
         </li>
+        <li>
+          <a 
+            class="py-1 transition duration-200 ease-in-out relative block font-medium hover:translate-x-2px hover:text-white-900 text-white"
+          >
+            <span class="relative">space</span>
+          </a>
+        </li>
       </ul>
     </nav>
   </div>
