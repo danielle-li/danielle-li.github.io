@@ -35,10 +35,17 @@
     </a>
   </li>
   <li class="mr-6">
-    <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYW5pZWxsZWxpfGd4OjNlZDljZTQ4NTJmODMzNGQ"
+    <a href=/assets/docs/CV_Current.pdf
     class="py-1 transition duration-200 ease-in-out relative block font-medium hover:translate-x-2px hover:text-gray-900 text-gray-600"
     >
     <span class="relative">CV</span>
+    </a>
+  </li>
+  <li class="mr-6">
+    <a href=/assets/docs/ResearchStatement.pdf
+    class="py-1 transition duration-200 ease-in-out relative block font-medium hover:translate-x-2px hover:text-gray-900 text-gray-600"
+    >
+    <span class="relative">Research Statement</span>
     </a>
   </li>
   </div>

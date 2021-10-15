@@ -50,6 +50,13 @@
             <span class="relative">CV</span>
           </a>
         </li>
+        <li>
+          <a href=/assets/docs/ResearchStatement.pdf
+            class="py-1 transition duration-200 ease-in-out relative block font-medium hover:translate-x-2px hover:text-gray-900 text-gray-600"
+          >
+            <span class="relative">Research Statement</span>
+          </a>
+        </li>
       </ul>
     </nav>
   </div>
