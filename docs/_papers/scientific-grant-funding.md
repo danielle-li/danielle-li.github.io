@@ -8,8 +8,8 @@ custom_order: 1
 ---
 <div>
   <div class="text-teal-600 text-base mb-2">
-    <p>Forthcoming in Austin Goolsbee and Benjamin Jones eds.,
-      <span class="italic">Innovation and Public Policy</span>, University of Chicago Press, 2020.
+    <p>In Austin Goolsbee and Benjamin Jones eds.,
+      <span class="italic">Innovation and Public Policy</span>, University of Chicago Press, 2022.
     </p>
   </div>
   <p><span class="font-medium">Abstract: </span>
