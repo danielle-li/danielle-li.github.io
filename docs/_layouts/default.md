@@ -23,7 +23,7 @@
     {{page.title}} | {{site.custom_settings.name}}
     {% endif %}
   </title>
-
+  <script src="https://cdn.tailwindcss.com"></script>
   {% if site.custom_settings.is_development %}
   <link rel="stylesheet" type="text/css" href="{{site.url | append: '/assets/css/styles.css'}}">
   {% else %}

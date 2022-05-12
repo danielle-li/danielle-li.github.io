@@ -1,17 +1,19 @@
-# Site Variables
+# Site
 url: https://danielle-li.github.io
+name: Danielle Li
 
-# Custom settings (GitHub Pages starter)
-custom_settings:
+# Custom settings (GitHub Pages Starter)
+custom:
   # required
   is_development: false
 
-  # optional/convenience
-  name: Danielle Li
   description: Associate Professor, MIT Sloan. Faculty Research Fellow, NBER.
 
 # Handling / Reading
+destination: ./../public
 safe: true
+ignore_theme_config: true
+strict_front_matter: true
 include:
   - _pages
   - _papers
@@ -20,7 +22,7 @@ collections:
   - papers
 
 keep_files:
-  - assets # generate by gulp
+  - assets # generate by gulp, not jekyll
 
 exclude:
   - _data/rev-manifest.json
@@ -31,6 +33,7 @@ exclude:
 
 # Conversion
 markdown: kramdown
+incremental: false
 
 # Output
 permalink: pretty

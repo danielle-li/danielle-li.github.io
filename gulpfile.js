@@ -1,86 +1,87 @@
-"use strict";
+import changed from "gulp-changed";
+import childProcess from "child_process";
+import concat from "gulp-concat";
+import gulpPkg from "gulp";
+import gulpSass from "gulp-sass";
+import imagemin from "gulp-imagemin";
+import rev from "gulp-rev";
+import sassCompiler from "sass";
 
-const autoprefixer = require("autoprefixer");
-const changed = require("gulp-changed");
-const concat = require("gulp-concat");
-const fancyLog = require("fancy-log");
-const flexbugsFixes = require("postcss-flexbugs-fixes");
-const gulp = require("gulp");
-const imagemin = require("gulp-imagemin");
-const postcss = require("gulp-postcss");
-const rev = require("gulp-rev");
-const sass = require("gulp-sass");
-const tailwindcss = require("tailwindcss");
-const tildeImporter = require("node-sass-tilde-importer");
+// paths
+import paths from "./gulpfile.paths.js";
 
-const paths = require("./gulpfile.paths");
+// commonJS/instances
+const sass = gulpSass(sassCompiler);
+const { dest, parallel, series, src, task, watch } = gulpPkg;
 
-function catchError(e) {
-  fancyLog.error(e);
+// errors
+const handleError = (e) => {
+  console.error(e.toString());
   this.emit("end");
-}
-
-// styles
-gulp.task("build:styles:dev", function() {
-  return gulp.src(paths.src.stylesDir + "*.scss").
-    pipe(
-      sass({
-        importer: tildeImporter,
-        outputStyle: "expanded"
-      }).on("error", catchError)
-    ).
-    pipe(postcss([tailwindcss])).
-    pipe(concat("styles.css")).
-    pipe(gulp.dest(paths.public.stylesDir)).
-    on("error", catchError);
-});
-
-gulp.task("build:styles:prod", function() {
-  const cssPostProcessors = [
-    flexbugsFixes,
-    tailwindcss,
-    autoprefixer()
-  ];
-
-  return gulp.src(paths.src.stylesDir + "*.scss").
-    pipe(
-      sass({
-        importer: tildeImporter,
-        outputStyle: "compressed"
-      }).on("error", catchError)
-    ).
-    pipe(postcss(cssPostProcessors)).
-    pipe(concat("styles.min.css")).
-    pipe(rev()).
-    pipe(gulp.dest(paths.docs.stylesDir)).
-    pipe(rev.manifest()).
-    pipe(gulp.dest(paths.docs.dataDir)).
-    on("error", fancyLog.error);
-});
-
-const buildImages = destDir => {
-  return gulp.src(paths.src.imageFilesGlob).
-    pipe(imagemin()).
-    pipe(changed(destDir, { hasChanged: changed.compareContents })).
-    pipe(gulp.dest(destDir));
 };
 
-gulp.task("build:images:dev", function() {
-  return buildImages(paths.public.imagesDir);
+// styles
+task("styles:dev", () => {
+  return src(paths.src.sassMainFile)
+    .pipe(sass({ outputStyle: "expanded" }).on("error", handleError))
+    .pipe(concat("styles.css"))
+    .pipe(
+      changed(paths.public.assetsDir, { hasChanged: changed.compareContents })
+    )
+    .pipe(dest(paths.public.assetsDir))
+    .on("error", handleError);
 });
 
-gulp.task("build:images:prod", function() {
-  return buildImages(paths.docs.imagesDir);
+task("styles:prod", () => {
+  return src(paths.src.sassMainFile)
+    .pipe(sass({ outputStyle: "compressed" }).on("error", handleError))
+    .pipe(concat("styles.min.css"))
+    .pipe(rev())
+    .pipe(dest(paths.jekyll.assetsDir))
+    .pipe(rev.manifest())
+    .pipe(dest(paths.jekyll.dataDir))
+    .on("error", handleError);
 });
 
-gulp.task("watch:assets", function() {
-  gulp.watch(paths.src.imageFilesGlob, gulp.series("build:images:dev"));
-  gulp.watch(paths.src.sassFilesGlob, gulp.series("build:styles:dev"));
+// images
+task("images:prod", () => {
+  return src(paths.src.imageFilesGlob)
+    .pipe(imagemin())
+    .pipe(dest(paths.jekyll.assetsDir))
+    .on("error", handleError);
 });
 
-// composite and default task
-gulp.task("build",
-  gulp.series("build:images:prod", "build:styles:prod"));
-gulp.task("dev",
-  gulp.series("build:images:dev", "build:styles:dev", "watch:assets"));
-gulp.task("default", gulp.series("dev"));
+task("images:dev", () => {
+  return src(paths.src.imageFilesGlob)
+    .pipe(
+      changed(paths.public.assetsDir, { hasChanged: changed.compareContents })
+    )
+    .pipe(dest(paths.public.assetsDir))
+    .on("error", handleError);
+});
+
+// jekyll
+task("jekyll:dev", (callback) => {
+  const command = "yarn";
+  const params = ["run", "dev:jekyll"];
+  const options = { stdio: "inherit" };
+  return childProcess.spawn(command, params, options).on("close", callback);
+});
+
+// composite
+task("assets:prod", parallel("images:prod", "styles:prod"));
+task("assets:dev", parallel("images:dev", "styles:dev"));
+
+task("watch", () => {
+  watch([paths.jekyll.dataFilesGlob], series("jekyll:dev"));
+  watch(
+    [paths.src.imageFilesGlob],
+    { ignoreInitial: false },
+    series("images:dev")
+  );
+  watch(
+    [paths.src.sassFilesGlob],
+    { ignoreInitial: false },
+    series("styles:dev")
+  );
+});
