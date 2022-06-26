@@ -2,6 +2,22 @@ Source code for [danielle-li.github.io](https://danielle-li.github.io/)
 
 Forked from [vikpe/github-pages-starter](https://github.com/vikpe/github-pages-starter). Thank you!
 
+## Common Tasks
+
+(See below for installation and general commands.)
+
+### Adding New Images
+
+- Add them to the `/src/img/` directory
+- Run `yarn build`, it will move them to the `/docs/assets/img/` directory
+- Link to them like this (see an example in `sidebar.md`)
+
+```html
+<img src="{{'/assets/img/danielle-li-headshot.jpg' | prepend: site.url}}">
+```
+
+- Then follow the guide below to make a new commit and push it
+
 ## Install
 
 You should only have to do this once
