@@ -31,6 +31,9 @@ Your site is now available at **`http://localhost:3000`**
 
 1. `yarn run build-assets` - Cleans, builds and minifies assets to `/docs/assets`.
 2. Push changes to GitHub
+  - `git add -A`
+  - `git commit -m <a descriptive message of what you changed>`
+  - `git push origin master`
 
 
 ## See also
