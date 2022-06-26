@@ -8,8 +8,10 @@ You should only have to do this once
 
 1. Install system dependencies
   - If `which brew` returns no output, install [Homebrew](https://brew.sh/)
-  - If `which node` returns no output
+  - If `which nvm` returns no output
       - Install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+      - After installing, run `exec zsh` (to reload your terminal shell, which is zsh)
+  - If `which node` returns no output
       - Then `nvm install 16`
       - Then `nvm use 16`
   - Install yarn: `npm install --global yarn`
