@@ -11,6 +11,7 @@ custom_menu_order: 1
 
 <p>My research interests are in innovation, entrepreneurship, and personnel economics, with a focus on how organizations evaluate ideas and people.</p>
 
+<p> I will be on leave at Columbia University during the 2022-2023 academic year.
 <div>
 <p>
 <br>
