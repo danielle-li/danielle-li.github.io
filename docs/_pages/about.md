@@ -9,9 +9,7 @@ custom_menu_order: 1
   I am currently an Associate Professor in the Technological Innovation, Entrepreneurship, and Strategic Management (TIES) group at MIT Sloan, and a Faculty Research Fellow at the National Bureau of Economic Research.  I received my Ph.D. from the MIT Department of Economics.
 </p>
 
-<p>My research interests are in innovation, entrepreneurship, and personnel economics, with a focus on how organizations evaluate ideas and people.</p>
-
-<p> I will be on leave at Columbia University during the 2022-2023 academic year.
+<p>My research interests are in innovation, entrepreneurship, and personnel economics, with a focus on how organizations evaluate ideas and people. I will be on leave at Columbia University during the 2022-2023 academic year.
 <div>
 <p>
 <br>
