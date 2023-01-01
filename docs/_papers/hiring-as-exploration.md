@@ -4,7 +4,7 @@ title: Hiring as Exploration
 link: /assets/docs/HiringAsExploration.pdf
 collaboration: with Lindsey Raymond and Peter Bergman
 category: working
-custom_order: 2
+custom_order: 3
 ---
   <div>
   <div class="text-teal-600 text-base mb-2">
