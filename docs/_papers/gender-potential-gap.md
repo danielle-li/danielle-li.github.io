@@ -4,7 +4,7 @@ title: <meta charset="utf-8"> "Potential" and the Gender Promotion Gap
 link: /assets/docs/PotentialAndTheGenderPromotionGap.pdf
 collaboration: with Alan Benson and Kelly Shue
 category: working
-custom_order: 2
+custom_order: 3
 ---
 
   <div>

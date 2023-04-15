@@ -53,6 +53,7 @@ Run the following command from the root of the repo:
 yarn watch
 ```
 
+Yarn watch isn't working so use yarn build.  
 Site is served @ http://localhost:3000 (visit it in your browser)
 
 ---
