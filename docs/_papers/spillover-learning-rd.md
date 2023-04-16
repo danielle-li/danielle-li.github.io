@@ -4,7 +4,7 @@ title: <meta charset="utf-8"> Evaluation and Learning in R&D Investment
 link: /assets/docs/EvaluationandLearninginRD.pdf
 collaboration: with Alex Frankel, Joshua Krieger, and Dimitris Papanikolaou
 category: working
-custom_order: 1
+custom_order: 3
 ---
 
 <div>
