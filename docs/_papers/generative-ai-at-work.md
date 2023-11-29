@@ -9,6 +9,7 @@ custom_order: 1
 
   <div>
   <div class="text-teal-600 text-base mb-2">
+  <p>Revisions requested, <em>Quarterly Journal of Economics</em></p>
     <p>Selected Coverage:
        
        <a href="https://www.axios.com/2023/04/25/artificial-intelligence-workplace-productivity" class="italic">Axios</a>,

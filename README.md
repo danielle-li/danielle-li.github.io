@@ -48,6 +48,7 @@ You should only have to do this once
 ## Development
 
 Run the following command from the root of the repo:
+cd Dropbox\ \(Personal\)/danielle-li.github.io
 
 ```shell
 yarn watch
