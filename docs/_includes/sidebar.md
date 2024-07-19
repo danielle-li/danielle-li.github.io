@@ -6,7 +6,7 @@
   <div class="pt-4 mt-4">
     <div class="font-bold text-xl mb-2">Danielle Li</div>
     <div class="text-gray-700 text-base">
-      <p>Associate Professor</p>
+      <p>Professor</p>
       <p>MIT Sloan</p>
     </div>
     <nav class="pt-6 text-base">
