@@ -6,10 +6,7 @@ custom_menu_order: 1
 ---
 
 <p class="mb-2">
-I am a Professor of Technological Innovation, Entrepreneurship, and Strategic Management (TIES) at MIT Sloan, and a Faculty Research Fellow at the National Bureau of Economic Research.  I received my Ph.D. from the MIT Department of Economics.
-</p>
-
-<p>My research interests are in innovation, digital, and personnel economics, with a focus on how organizations evaluate ideas and people. 
+I am the David Sarnoff Professor of Management of Technology at MIT Sloan, and a Research Associate at the National Bureau of Economic Research.  My interests are in innovation, digital, and personnel economics, with a focus on the uses and consequences of technology in the workplace. 
 <div>
 <p>
 <br>

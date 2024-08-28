@@ -4,7 +4,7 @@ title: "Public R&D Investments and Private Sector Patenting: Evidence from NIH F
 link: /assets/docs/PublicRDAndPrivatePatenting.pdf
 collaboration: with Pierre Azoulay, Josh Graff-Zivin, and Bhaven Sampat
 category: accepted-forthcoming-published
-custom_order: 5
+custom_order: 7
 ---
 <div>
   <div class="text-teal-600 text-base mb-2">

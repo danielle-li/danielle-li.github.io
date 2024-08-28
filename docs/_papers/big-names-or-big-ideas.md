@@ -4,7 +4,7 @@ title: "Big Names or Big Ideas: Do Peer Review Panels Select the Best Science Pr
 link: /assets/docs/BigNamesOrBigIdeas.pdf
 collaboration: with Leila Agha
 category: accepted-forthcoming-published
-custom_order: 9
+custom_order: 11
 ---
 <div>
   <div class="text-teal-600 text-base mb-2">

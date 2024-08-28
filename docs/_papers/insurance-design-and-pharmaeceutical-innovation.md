@@ -4,7 +4,7 @@ title: Insurance Design and Pharmaceutical Innovation
 link: /assets/docs/InsuranceDesignAndPharmaceuticalInnovation.pdf
 collaboration: with Leila Agha and Soomi Kim
 category: accepted-forthcoming-published
-custom_order: 1
+custom_order: 2
 ---
 
   <div>

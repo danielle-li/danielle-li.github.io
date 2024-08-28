@@ -4,7 +4,7 @@ title: The Applied Value of Public Investments in Biomedical Research
 link: /assets/docs/TheAppliedValueOfPublicInvestments.pdf
 collaboration: with Pierre Azoulay and Bhaven Sampat
 category: accepted-forthcoming-published
-custom_order: 8
+custom_order: 10
 ---
 <div>
   <div class="text-teal-600 text-base mb-2">

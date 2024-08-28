@@ -4,7 +4,7 @@ title: Discretion in Hiring
 link: /assets/docs/DiscretionInHiring.pdf
 collaboration: with Mitch Hoffman and Lisa Kahn
 category: accepted-forthcoming-published
-custom_order: 6
+custom_order: 8
 ---
 <div>
   <div class="text-teal-600 text-base mb-2">

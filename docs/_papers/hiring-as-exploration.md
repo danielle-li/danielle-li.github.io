@@ -3,12 +3,12 @@ layout: paper
 title: Hiring as Exploration
 link: /assets/docs/HiringAsExploration.pdf
 collaboration: with Lindsey Raymond and Peter Bergman
-category: working
-custom_order: 4
+category: accepted-forthcoming-published
+custom_order: 1
 ---
   <div>
   <div class="text-teal-600 text-base mb-2">
-  <p>Revisions requested, <em>Review of Economic Studies</em></p>
+  <p>Accepted, <em>Review of Economic Studies</em></p>
     <p>Selected Coverage:
       <a href="https://www.axios.com/ai-robots-recruiting-hiring-discrimination-d7701e2b-aae1-4dba-8aa0-17e7acb32ab1.html" class="italic">Axios</a>,
       <a href="https://www.bloomberg.com/news/articles/2021-02-25/how-to-hire-better-mit-sloan-economist-danielle-li" class="italic">Bloomberg Businessweek</a>,
