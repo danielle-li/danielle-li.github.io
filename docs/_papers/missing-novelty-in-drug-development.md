@@ -4,7 +4,7 @@ title: Missing Novelty in Drug Development
 link: /assets/docs/MissingNoveltyInDrugDevelopment.pdf
 collaboration: with Joshua Krieger and Dimitris Papanikolaou
 category: accepted-forthcoming-published
-custom_order: 3
+custom_order: 4
 ---
 <div>
   <div class="text-teal-600 text-base mb-2">

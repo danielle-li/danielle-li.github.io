@@ -3,13 +3,13 @@ layout: paper
 title: <meta charset="utf-8"> Generative AI at Work
 link: /assets/docs/GenerativeAIatWork.pdf
 collaboration: with Erik Brynjolfsson and Lindsey Raymond
-category: working
+category: accepted-forthcoming-published
 custom_order: 1
 ---
 
   <div>
   <div class="text-teal-600 text-base mb-2">
-  <p>Revisions requested, <em>Quarterly Journal of Economics</em></p>
+  <p>Accepted, <em>Quarterly Journal of Economics</em></p>
     <p>Selected Coverage:
        
        <a href="https://www.axios.com/2023/04/25/artificial-intelligence-workplace-productivity" class="italic">Axios</a>,
@@ -22,6 +22,6 @@ custom_order: 1
           </p>
   </div>
 
-  <p><span class="font-medium">Abstract: </span> New AI tools have the potential to change the way workers perform and learn, but little is known about their impacts on the job.  In this paper, we study the staggered introduction of a generative AI-based conversational assistant using data from 5,179 customer support agents.  Access to the tool increases productivity, as measured by issues resolved per hour, by 14% on average, including a 35% improvement for novice and low-skilled workers but with minimal impact on experienced and highly skilled workers.  We provide suggestive evidence that the AI model disseminates the best practices of more able workers and helps newer workers move down the experience curve. In addition, we find that AI assistance improves customer sentiment, increases employee retention, and may lead to worker learning. Our results suggest that access to generative AI can increase productivity, with large heterogeneity in effects across workers. 
+  <p><span class="font-medium">Abstract: </span> We study the staggered introduction of a generative AI-based conversational assistant using data from 5,172 customer support agents. Access to AI assistance increases worker productivity, as measured by issues resolved per hour, by 15 percent on average, with substantial heterogeneityacross workers. The effects vary significantly across different agents. Less experienced and lower skilled workers improve both the speed and quality of their output while the most experienced and highest-skilled workers see small gains in speed and small declines in quality. We also find evidence that AI assistance facilitates worker learning and improves English fluency, particularly among international agents. While AI systems improve with more training data, we find that the gains from AI adoption are largest for moderately rare problems, where human agents have less baseline experience but the system still has adequate training data. Finally, we provide evidence that AI assistance improves the experience of work along several dimensions: customers are more polite and less likely to ask to speak to a manager.
   </p>
 </div>
