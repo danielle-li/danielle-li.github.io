@@ -9,7 +9,7 @@ custom_order: 3
 
   <div>
   <div class="text-teal-600 text-base mb-2">
-  <p>Revisions requested, <em>American Economic Review</em></p>
+  <p>Conditionally Accepted, <em>American Economic Review</em></p>
     <p>Selected Coverage:
       <a href="https://www.bbc.com/worklife/article/20220603-why-women-have-to-sprint-into-leadership-positions" class="italic">BBC</a>,
       <a href="https://www.msnbc.com/know-your-value/career-growth/how-women-bosses-are-being-robbed-career-development-opportunities-n1289049" class="italic">MSNBC</a>,
