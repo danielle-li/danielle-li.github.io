@@ -13,7 +13,7 @@ Forked from [vikpe/github-pages-starter](https://github.com/vikpe/github-pages-s
 - Link to them like this (see an example in `sidebar.md`)
 
 ```html
-<img src="{{'/assets/img/danielle-li-headshot.jpg' | prepend: site.url}}">
+<img src="{{'/assets/img/danielle-li-headshot.jpg' | prepend: site.url}}" />
 ```
 
 - Then follow the guide below to make a new commit and push it
@@ -23,51 +23,41 @@ Forked from [vikpe/github-pages-starter](https://github.com/vikpe/github-pages-s
 You should only have to do this once
 
 1. Install system dependencies
-  - If `which brew` returns no output, install [Homebrew](https://brew.sh/)
-  - If `which nvm` returns no output
-      - Install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-      - After installing, run `exec zsh` (to reload your terminal shell, which is zsh)
-  - If `which node` returns no output
-      - Then `nvm install 16`
-      - Then `nvm use 16`
-  - Install yarn: `npm install --global yarn`
-  - Install `chruby`, `ruby-install` and install Ruby (see: https://mac.install.guide/ruby/12.html)
-      - `brew install ruby-install chruby`
-      - Follow directions to add lines to `~/.zshrc`
-      - `ruby-install --latest`
-      - Restart terminal
+
+- If `which brew` returns no output, install [Homebrew](https://brew.sh/)
+- If `which nvm` returns no output
+  - Install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+  - After installing, run `exec zsh` (to reload your terminal shell, which is zsh)
+- If `which node` returns no output
+  - Then `nvm install 16`
+  - Then `nvm use 16`
+- Install yarn: `npm install --global yarn`
+- Install `chruby`, `ruby-install` and install Ruby (see: https://mac.install.guide/ruby/12.html)
+  - `brew install ruby-install chruby`
+  - Follow directions to add lines to `~/.zshrc`
+  - `ruby-install 3.3.9` (confirmed to work with Ruby 3.3.9)
+  - Restart terminal
+
 2. Clone repo: `git clone git@github.com:danielle-li/danielle-li.github.io.git`
 3. Install system dependencies
-  1. `cd danielle-li.github.io.git`
-  2. `yarn install`
-  3. `cd docs`
-  4. `bundle install`
+4. `cd danielle-li.github.io.git`
+5. `yarn install`
+6. `cd docs`
+7. `bundle install`
 
 ---
 
 ## Development
 
-Run the following command from the root of the repo:
-cd Dropbox\ \(Personal\)/danielle-li.github.io
-
-```shell
-yarn watch
-```
-
-Yarn watch isn't working so use yarn build.  
-Site is served @ http://localhost:3000 (visit it in your browser)
-
----
-
-## Production
-
-Run the following command from the root of the repo:
+The `yarn watch` command isn't correctly working. Instead, run the following command from the root of the repo:
 
 ```shell
 yarn build
 ```
 
-Build site to `/public`
+This builds the site to `/public`. Then use `yarn start` and visit `http://localhost:3000` to view it in the browser.
+
+_Regrettably, this means you must rerun `yarn build` each time you change something_. You can leave `yarn start` up in a separate terminal; no need to restart that.
 
 ---
 
@@ -79,21 +69,21 @@ Then, commit your changes and push them:
 
 ## Commands
 
-Command | Stage | Description
----|---|---
-`dev` | `dev` | Build site (Jekyll, assets)
-`dev:jekyll` | `dev` | Build Jekyll
-`dev:assets` | `dev` | Build assets (images, stylesheets)
-`watch` | `dev` | Build site on changes and serve @ http://localhost:3000
-||
-`build` | `prod` | Build site (Jekyll, assets)
-`build:jekyll` | `prod` | Build Jekyll
-`build:assets` | `prod` | Build assets (images, stylesheets)
-||
-`clean` | - | Delete `/public` and clear Jekyll caches
-`start` | - | Serve `/public` @ http://localhost:3000
+| Command        | Stage  | Description                                             |
+| -------------- | ------ | ------------------------------------------------------- |
+| `dev`          | `dev`  | Build site (Jekyll, assets)                             |
+| `dev:jekyll`   | `dev`  | Build Jekyll                                            |
+| `dev:assets`   | `dev`  | Build assets (images, stylesheets)                      |
+| `watch`        | `dev`  | Build site on changes and serve @ http://localhost:3000 |
+|                |
+| `build`        | `prod` | Build site (Jekyll, assets)                             |
+| `build:jekyll` | `prod` | Build Jekyll                                            |
+| `build:assets` | `prod` | Build assets (images, stylesheets)                      |
+|                |
+| `clean`        | -      | Delete `/public` and clear Jekyll caches                |
+| `start`        | -      | Serve `/public` @ http://localhost:3000                 |
 
 ## See also
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-* [Next.js](https://github.com/zeit/next.js) - React based framework with server side rendering (SSR)
+- [Gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [Next.js](https://github.com/zeit/next.js) - React based framework with server side rendering (SSR)

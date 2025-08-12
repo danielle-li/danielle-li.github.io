@@ -4,3 +4,10 @@ node_modules/
 public/
 yarn-error.log
 *secrets*
+
+# Yarn 2+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/patches
