@@ -3,15 +3,17 @@ layout: paper
 title: <meta charset="utf-8"> "Potential" and the Gender Promotion Gap
 link: /assets/docs/PotentialAndTheGenderPromotionGap.pdf
 collaboration: with Alan Benson and Kelly Shue
-category: working
-custom_order: 3
+category: accepted-forthcoming-published
+custom_order: 1
 ---
 
   <div>
   <div class="text-teal-600 text-base mb-2">
-  <p>Conditionally Accepted, <em>American Economic Review</em></p>
+  <p><span class="italic">American Economic Review (Lead Article)</span>, February 2026: Vol. 116, No. 2.</p>
     <p>Selected Coverage:
       <a href="https://www.bbc.com/worklife/article/20220603-why-women-have-to-sprint-into-leadership-positions" class="italic">BBC</a>,
+           <a href="https://www.forbes.com/sites/naomicahn/2026/02/09/explaining-the-gender-promotion-gap/" class="italic">Forbes</a>,
+      
       <a href="https://www.msnbc.com/know-your-value/career-growth/how-women-bosses-are-being-robbed-career-development-opportunities-n1289049" class="italic">MSNBC</a>,
       <a href="https://insights.som.yale.edu/insights/women-arent-promoted-because-managers-underestimate-their-potential" class="italic">Yale Insights</a>
           </p>
